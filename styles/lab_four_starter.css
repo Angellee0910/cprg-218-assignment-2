@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anta:wght@300;400;500;700&display=swap');
 body {
   font-family: 'Anta', 'Roboto', 'Times New Roman', serif;
+  font-display: swap;
   background-color: #ccc;
   text-size-adjust: none;
   max-zoom: 200%;
@@ -112,7 +113,7 @@ button:focus, button a:focus{
 }
 
 .card h4 a{
-  color: #036a07ba;
+  color: blue;
 }
 
 .card h4 a:hover{
